@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  🌱 I’m currently learning <strong>Data Analytics</strong>, <strong>Power BI</strong>, <strong>Excel</strong>, <strong>Tableau</strong>, and <strong>Python for Data Science</strong> <br>
+   I’m currently learning <strong>Data Analytics</strong>, <strong>Power BI</strong>, <strong>Excel</strong>, <strong>Tableau</strong>, and <strong>Python for Data Science</strong> <br>
   📫 Reach me at: <strong>jishnakp14@gmail.com</strong>
 </p>
 
